@@ -1,12 +1,6 @@
 print("jeevitha Python file")
-
-print("Rohindh Kishore K M")
-
-
-
 print("Jila")
 print("Sanskriti")
-
 print("Suraj Karthic Python file")
 print("Rohindh")
 print("Aditya Trivedi")
