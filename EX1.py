@@ -1,6 +1,3 @@
 print("jeevitha Python file")
 
-print("Jila")
-
-print("Sanskriti")
-
+print("Suraj Karthic Python file")
